@@ -26,7 +26,6 @@ namespace Bt2
             max = c;
             }
             Console.WriteLine($"So lon nhat giua 3 so nguyen la: {max}");
-            
         }
     }
 }

@@ -1,7 +1,0 @@
-C:\TH NMLT\TH\Tuần 3\Bt2\bin\Debug\Bt2.exe.config
-C:\TH NMLT\TH\Tuần 3\Bt2\bin\Debug\Bt2.exe
-C:\TH NMLT\TH\Tuần 3\Bt2\bin\Debug\Bt2.pdb
-C:\TH NMLT\TH\Tuần 3\Bt2\obj\Debug\Bt2.csproj.AssemblyReference.cache
-C:\TH NMLT\TH\Tuần 3\Bt2\obj\Debug\Bt2.csproj.CoreCompileInputs.cache
-C:\TH NMLT\TH\Tuần 3\Bt2\obj\Debug\Bt2.exe
-C:\TH NMLT\TH\Tuần 3\Bt2\obj\Debug\Bt2.pdb

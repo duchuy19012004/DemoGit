@@ -1,0 +1,29 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Nhập giá trị của a, b, c
+        Console.Write("Nhập giá trị a: ");
+        int a = int.Parse(Console.ReadLine());
+
+        Console.Write("Nhập giá trị b: ");
+        int b = int.Parse(Console.ReadLine());
+
+        Console.Write("Nhập giá trị c: ");
+        int c = int.Parse(Console.ReadLine());
+
+        // In giá trị trước khi hoán đổi
+        Console.WriteLine("\nBefore swapping:");
+        Console.WriteLine($"a = {a}, b = {b}, c = {c}");
+
+        // Sử dụng mảng và hàm Array.Sort() để sắp xếp
+        int[] arr = { a, b, c };
+        Array.Sort(arr);
+
+        // In giá trị sau khi sắp xếp
+        Console.WriteLine("\nAfter swapping:");
+        Console.WriteLine($"a = {arr[0]}, b = {arr[1]}, c = {arr[2]}");
+    }
+}
